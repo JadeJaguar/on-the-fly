@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+
+
+.env
+.env.local
+
+
+dist/
+
+.DS_Store
+Thumbs.db
